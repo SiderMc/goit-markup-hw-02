@@ -60,6 +60,12 @@ body {
 }
 /*=================================*/
 /*=============Titles============*/
+.hero-title {
+  color: #ffffff;
+  font-weight: 700;
+  font-size: 56px;
+  line-height: 1;
+}
 .titles {
   color: #2e2f42;
   font-weight: 500;
