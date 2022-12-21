@@ -1,0 +1,77 @@
+/*=======================Global========================*/
+body {
+  font-family: Roboto, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+  color: #434455;
+  /*====================================================*/
+  /*==============Logo===================================*/
+}
+.logo {
+  font-family: Raleway, sans-serif;
+  font-size: 18px;
+  line-height: 1.3;
+  text-decoration: none;
+  color: #2e2f42;
+}
+/*======================================================*/
+/*=================HOVER FOCUS===========================*/
+.navigation-list-link:hover,
+.navigation-list-link:focus,
+.header-page-link:hover,
+.header-page-link:focus {
+  color: #404bbf;
+}
+/*========================================================*/
+/*==================Links==================================*/
+.navigation-list-link,
+.header-page-link {
+  text-decoration: none;
+  color: inherit;
+}
+.navigation-list-link {
+  font-weight: 500;
+}
+/*========================================================*/
+/*===================Lists=================================*/
+.navigation-list,
+.header-page-list,
+.main-lists {
+  list-style: none;
+}
+.header-page-contacts {
+  font-style: inherit;
+}
+/*=====================================*/
+/*==================BUTTONS========*/
+.section-botton {
+  background-color: #4d5ae5;
+  color: #ffffff;
+  cursor: pointer;
+}
+.service-buttons {
+  background-color: #e7e9fc;
+  color: #4d5ae5;
+}
+.service-buttons:hover,
+.service-buttons:focus {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+/*=================================*/
+/*=============Titles============*/
+.titles {
+  color: #2e2f42;
+  font-weight: 500;
+}
+.main-title {
+  font-size: 36px;
+  line-height: 1.1;
+  font-weight: 700;
+}
+.section-title {
+  font-size: 20px;
+  line-height: 1.2;
+}
+/*=====================================*/
+/*============Portfolio==================*/
